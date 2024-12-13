@@ -15,6 +15,11 @@ HDU-VRLab focuses on two primary research areas:
 - Develops vision-based robotic **grasping and manipulation** techniques.  
 - Integrates **reinforcement learning** and **optimization algorithms** to enhance autonomous decision-making capabilities for robots.
 
+### 🌈 Contribution Guidelines
+We welcome collaboration from the community! Here’s how you can get involved:
+1. Explore open issues or submit new ideas.  
+2. Share your expertise and help enhance the lab's research impact.  
+
 ---
 
 ✨ **Remember:** 

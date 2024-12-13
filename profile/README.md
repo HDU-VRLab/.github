@@ -17,6 +17,7 @@ HDU-VRLab focuses on two primary research areas:
 
 ---
 
-✨ **Remember:** With the power of collaboration and innovation, we can achieve mighty things!  
-For any inquiries, feel free to reach out. Let’s shape the future together.  
+✨ **Remember:** 
+- With the power of collaboration and innovation, we can achieve mighty things!  
+- For any inquiries, feel free to reach out. Let’s shape the future together.  
 
